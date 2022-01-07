@@ -1,0 +1,96 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 5px 50px;
+}
+h1{
+    font-size: 50px;
+}
+.div-head{
+    height: 100px;
+    padding:20px;
+    border-left: 4px solid orange;
+    line-height: 5px;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 100px;
+}
+.head-color-orange {
+    color: orange;
+}
+.half-width{
+    width: 500px;
+    padding-left: 150px;
+}
+.half-width img{
+    width: 380px;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(salmon, orange);
+    padding: 5px 50px;
+    color:white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.center-head{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+.mission{
+    color: blueviolet;
+}
+.mission-2022{
+    color: tomato;
+}
+.div-mission{
+    width: 300px;
+    height: 400px ;
+    border: 1px solid rgb(10, 56, 156));
+    border-radius: 20px;
+    padding: 20px;
+    margin:10px 20px 20px 60px;
+}
+.div-img img{
+    width: 180px;
+    padding-right: 90px;
+}
+.color-aqua{
+    background-color: aqua;
+}
+.color-beige{
+    background-color: beige;
+}
+.color-aquamarine{
+    background-color: aquamarine;
+}
+.div-head-two{
+    font-size: 30px;
+    font-family: 'Orelega One', cursive;
+}
+.secnd-half-width{
+   width: 500px;
+   padding-left: 100px;
+}
+.secnd-half-width img{
+    width: 480px;
+}
+.div-head-three{
+    font-size: 25px;
+    font-family: 'Orelega One', cursive;
+}
+.darkviolet{
+    color: darkviolet;
+}
+.div-head-four{
+    font-size: 25px;
+    font-family: 'Orelega One', cursive;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h3{
+    font-family: 'Permanent Marker', cursive;
+}
